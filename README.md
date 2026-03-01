@@ -1,2 +1,2 @@
-# Swiggy-clone
-This repository contains Swiggy clone website..
+# Nodejs-app
+This repository contains nodejs-application website..
